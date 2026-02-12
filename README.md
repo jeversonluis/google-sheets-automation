@@ -129,7 +129,7 @@ This project can serve as a foundation for:
 
 ## 👨‍💻 Author
 
-Jeverson Luis S
+Jeverson Luis S  
 Python Automation & API Integration  
 
 ---
